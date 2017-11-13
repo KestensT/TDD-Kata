@@ -18,5 +18,4 @@ public class KlasseTest{
         public void getName_shouldReturnName() throws Exception {
             assertThat(customer.getName()).isEqualTo("Ralphie");
         }
-
 }
